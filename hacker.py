@@ -5,4 +5,4 @@ bgcolor('blue')
 circle(70)
 pencolor('yellow')
 
-done(
+done()
